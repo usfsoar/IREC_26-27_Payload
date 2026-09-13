@@ -1,4 +1,4 @@
 # University of South Florida (USF)
 # Society of Aeronautics and Rocketry (SOAR)
-## International Rocket Engineering Competition (IREC) Team
+## 2026-27 International Rocket Engineering Competition (IREC) Team
 ## Payload Subsystem Repository
